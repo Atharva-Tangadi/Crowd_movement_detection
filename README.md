@@ -7,7 +7,6 @@
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)](https://react.dev/)
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Object%20Detection-111111)](https://github.com/ultralytics/ultralytics)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
 
 ---
 
